@@ -1,0 +1,12 @@
+{
+  "name": "changelog",
+  "version": "1.0.0",
+  "scripts": {
+    ...
+    "version": "node changelog-generator.js && git add CHANGELOG.md"
+  },
+  "license": "GNU",
+  "dependencies": {
+    ...
+  }
+}
